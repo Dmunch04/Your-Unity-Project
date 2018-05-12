@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scences/00 Splash/00.1 Splash.unity
+    guid: 4cc601d1fdc4b44db8fa286a4261979b
+  - enabled: 1
+    path: Assets/Scences/00 Splash/00.2 DJT Splash.unity
+    guid: ccc8b3249f70a4699802584f46fc4565
+  - enabled: 1
+    path: Assets/Scences/01 StartMenu.unity
+    guid: 18c10d37ccfea4d8984787907ce6d7ad
+  - enabled: 1
+    path: Assets/Scences/01.0 SPM start pause menu/01.50 Load/01.51 Load Menu.unity
+    guid: 06acac695fe4f4bf5a22b67cc93d78e7
+  - enabled: 1
+    path: Assets/Scences/01.0 SPM start pause menu/01.10 About/01.10 About S.unity
+    guid: 0e566ed36e5bf44b9b1ced36a65b123c
+  - enabled: 1
+    path: Assets/Scences/01.0 SPM start pause menu/01.20 Achievements/01.21 A.Menu.unity
+    guid: 2f744c7f2609c40c0a2ddda1c469dedd
+  - enabled: 1
+    path: Assets/Scences/01.0 SPM start pause menu/01.30 Options/01.31 Settings.unity
+    guid: 579c6b151f75345f09cf24d18ee82886
+  - enabled: 1
+    path: Assets/Scences/01.0 SPM start pause menu/01.40 Pause Menu/01.41 Paused.unity
+    guid: ac06694c0b80a4c369cb20970caee738
+  - enabled: 1
+    path: Assets/Scences/02 Entrance/02.01 Welcome to DJ tycoon/02.011 Welcome.unity
+    guid: 8783b93dbf2564753b94ff26519f889f
+  - enabled: 1
+    path: Assets/Scences/02 Entrance/02.04 End Entrance/02.04 EndEntrance.unity
+    guid: 4a3b1ec0a2b0145caa2e36c7a068976e
+  - enabled: 1
+    path: Assets/Scences/03 P.C Player Customization/03.01 Hello.unity
+    guid: 7b433cae1c86b4234b7894b4aff1c1bf
+  - enabled: 1
+    path: Assets/Scences/03 P.C Player Customization/03.02 DJAlias.unity
+    guid: 50471631bb8ff43adb556c8faa164b63
+  - enabled: 1
+    path: Assets/Scences/03 P.C Player Customization/03.03 DJLook.unity
+    guid: 0c36bfef0a32a45ff952aab3fc76eebe
+  - enabled: 1
+    path: Assets/Scences/03 P.C Player Customization/03.04 PreCheck.unity
+    guid: c44a2401f32434bc6a7701e94c3f31e3
+  - enabled: 1
+    path: Assets/Scences/04 Levels/04.00 Level 1/04.10 Level 1.unity
+    guid: 207fae6957ef94549b0f70ffd29c73af
+  - enabled: 1
+    path: Assets/Scences/04 Levels/04.10 Level 2/04.20 Level 2.unity
+    guid: 7e9b50c41a85f48038e644e173ee19cf
+  - enabled: 1
+    path: Assets/Scences/100 Credits.unity
+    guid: 63a7d460c6a60470985ab96c8196de00
+  - enabled: 1
+    path: Assets/Scences/99 Ending/99.1 Bankrupt.unity
+    guid: c52d0b51b39a84d1aa4adb733864ba33
+  - enabled: 1
+    path: Assets/Scences/99 Ending/99.3 Quit.unity
+    guid: 14d91ae6ef0114c1c86b3f54471c889a
+  - enabled: 1
+    path: Assets/Scences/99 Ending/99.99 Win.unity
+    guid: 638c7aeaf9eea4d55abbc1b19d12590c
+  m_configObjects: {}

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{EEF1BB0C-BD45-4F88-0FCD-754E7709F02A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/2 Other/13 URL Link/link.cs">
+    <Files>
+      <File FileName="Assets/Scripts/2 Other/13 URL Link/link.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/1 In Game Display/0 Time Date/timeandate.cs" Line="198" Column="30" />
+      <File FileName="Assets/Scripts/2 Other/2 Music Player/MusicManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
